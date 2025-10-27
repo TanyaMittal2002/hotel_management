@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1036212857285",
+    "project_id": "mytravalydemo",
+    "storage_bucket": "mytravalydemo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036212857285:android:836397b3014e83601d03ac",
+        "android_client_info": {
+          "package_name": "com.example.hotel_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036212857285-9v6amqdn1cf5in2pt44qh7t4qg3m6g00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotel_management",
+            "certificate_hash": "d4806083084d3f94e53c159f5b351be5f8de242c"
+          }
+        },
+        {
+          "client_id": "1036212857285-ho5h347ul3mnb3hvkkrjk7re4bgseuqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-CNNgOd7sgYJnLSXQXB_0AidT8SY25yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036212857285-ho5h347ul3mnb3hvkkrjk7re4bgseuqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
